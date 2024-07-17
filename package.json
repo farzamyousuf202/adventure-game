@@ -1,0 +1,22 @@
+{
+  "name": "adventu-gamertthhj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "\"farzam\"",
+  "license": "MIT",
+  "description": "\"adventur game\"",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.11"
+  },
+  "dependencies": {
+    "inquirer": "^10.0.2",
+    "undici-types": "^5.26.5"
+  }
+}
